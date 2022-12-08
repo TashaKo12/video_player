@@ -5,7 +5,7 @@
 Добавлен дизайн для кнопок.
 
 Пример прототипа плеера опубликован на GitHub Pages по ссылке:
-[]()
+[https://tashako12.github.io/](https://tashako12.github.io/)
 
 ## Установка
 
