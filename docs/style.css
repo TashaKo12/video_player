@@ -1,0 +1,25 @@
+.button{
+  border-style: none;
+  cursor: pointer;
+  color:white;
+  background-color:transparent ;
+  width:50px;
+  float:left;
+  margin-bottom:10px
+}
+.button#expand{
+  float: right;
+}
+.player-container{
+  box-shadow: 0 0 20px rgba(0,0,0,2);
+  width: 800px;
+  height: 600px;
+  display: flex;
+  flex-direction: column;
+}
+.video-container{
+  flex-grow: 1
+}
+.button_container{
+  background-color:black;
+}
